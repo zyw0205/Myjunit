@@ -1,0 +1,10 @@
+
+P
+java:S1874+"3Remove this use of "newInstance"; it is deprecated.(¼Ç—Î8ÙôÊÂˆ/
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ê«­¨ıÿÿÿÿ8Ğ°«Âˆ/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ùÒœÑüÿÿÿÿ8ÂœÕÂˆ/
+b	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(¢©ôˆ8½–ÉÂˆ/
+`
+java:S1155(">Use isEmpty() to check whether the collection is empty or not.(ğÓõìüÿÿÿÿ8Œ¦ãÂˆ/
